@@ -3,3 +3,7 @@ lang: 'en'
 langs: ['en', 'ru']
 interface:
   favicon-src: /1.png
+resources:
+  script:
+    - /path/to/favicon-changer.js
+allowCustomResources: true
