@@ -5,5 +5,5 @@ interface:
   favicon-src: /1.png
 resources:
   script:
-    - /path/to/favicon-changer.js
+    - /favicon-changer.js
 allowCustomResources: true
