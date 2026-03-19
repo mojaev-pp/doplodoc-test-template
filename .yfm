@@ -1,4 +1,5 @@
 allowHTML: true
 lang: 'en'
 langs: ['en', 'ru']
-
+interface:
+  favicon-src: /1.png
