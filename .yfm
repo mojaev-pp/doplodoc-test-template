@@ -1,13 +1,13 @@
+# Корневая секция параметров
 allowHTML: true
-lang: 'en'
+strict: true
+breaks: false
+apply-presets: true
+varsPreset: 'external'
+needToSanitizeHtml: true
 langs: ['en', 'ru']
 
 # Настройки интерфейса документации
 interface:
-  favicon-src: https://raw.githubusercontent.com/yandex-cloud/yfm-documentation/master/_images/logo_blue_32x32.png
-
-allowCustomResources: true
-resources:
-  script:
-    - /favicon-changer.js
+  favicon-src: 1.png
 
