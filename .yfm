@@ -1,9 +1,11 @@
 allowHTML: true
 lang: 'en'
 langs: ['en', 'ru']
+
+# Настройки интерфейса документации
 interface:
-  favicon-src: 
-    - /1.png
+  favicon-src: https://raw.githubusercontent.com/yandex-cloud/yfm-documentation/master/_images/logo_blue_32x32.png
+
 allowCustomResources: true
 resources:
   script:
