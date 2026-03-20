@@ -9,5 +9,5 @@ langs: ['en', 'ru']
 
 # Настройки интерфейса документации
 interface:
-  favicon-src: 1.png
+  favicon-src: /1.png
 
